@@ -1,6 +1,7 @@
 package com.mycompany.figurasgeometricas;
 
 import java.util.Scanner;
+// Complejidad temporal : (1) Tiempo constante
 
 public class Principal {
 

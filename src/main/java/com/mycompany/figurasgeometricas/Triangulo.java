@@ -8,6 +8,7 @@ package com.mycompany.figurasgeometricas;
  *
  * @author Lenovo
  */
+// Complejidad temporal : (1) Tiempo constante
 public class Triangulo extends FiguraGeometrica {
     private double base;
     private double altura;

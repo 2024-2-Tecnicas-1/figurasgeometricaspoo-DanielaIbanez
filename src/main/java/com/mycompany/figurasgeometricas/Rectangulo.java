@@ -8,6 +8,7 @@ package com.mycompany.figurasgeometricas;
  *
  * @author Lenovo
  */
+// Complejidad temporal : (1) Tiempo constante
 public class Rectangulo extends FiguraGeometrica {
     private double lado1;
     private double lado2;

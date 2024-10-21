@@ -8,6 +8,7 @@ package com.mycompany.figurasgeometricas;
  *
  * @author Lenovo
  */
+// Complejidad temporal : (1) Tiempo constante
 public class Circulo extends FiguraGeometrica {
     private double radio;
     
